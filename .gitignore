@@ -4,8 +4,8 @@ __pycache__/
 *$py.class
 <<<<<<< HEAD
 =======
-*.jpg
-*.JPG
+sourceimages1/
+template1/
 .idea
 >>>>>>> 09771bb (first commit)
 
